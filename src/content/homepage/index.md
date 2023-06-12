@@ -1,7 +1,7 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: Snabbt och enkelt att komma igång
+  content: Hos oss blir din tjänst unik. Hos oss är du inte en av många. Vi anpassar din tjänst exklusivt efter dina önskemål. Din tjänst blir ett original och inte en kopia.
   image: /images/banner-art.png
   button:
     label: "Contact Us"
